@@ -1,4 +1,4 @@
-# Detección de Plagio mediante Embeddings Semánticos con BERT
+# Detección de Plagio mediante Embeddings Semánticos con NNLM
 
 Este trabajo fue realizado por un equipo de tres personas, cada una explorando diferentes modelos de embeddings. Esta documentación se centra en los resultados obtenidos utilizando el modelo NNLM.
 
